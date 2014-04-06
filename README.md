@@ -1,7 +1,7 @@
-Hadoop Ingest
-============
+# Hadoop Ingest
 
-From local file system
+#From local file system
+
 Provide examples using the following mechanisms:
  - command line
  - HDFS Java API
